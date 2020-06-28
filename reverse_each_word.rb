@@ -8,6 +8,7 @@ def
     return_array <<
     string.reverse 
   end
+  return_array.join("")
   
 
 reverse_each_word("Hello there, and how are you?")
