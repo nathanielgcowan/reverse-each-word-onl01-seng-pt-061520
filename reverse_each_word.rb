@@ -7,7 +7,7 @@ def
   do |string|
     return_array <<
     string.reverse 
-  end
+end
   return_array.join("")
 end
 
